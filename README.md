@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mikhail<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Python developer student from Russia</h3>
 
-- 🌱 I’m currently learning [![Python](https://img.shields.io/badge/-Python-464646?style=flat-square&logo=Python)](https://www.python.org/)
+- 🌱 I’m currently learning Python
 - 📫 How to reach me green_panda@inbox.ru
 - 🌍 I speak Russian (native), English (B1)
 
