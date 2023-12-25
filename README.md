@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mikhail<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi All, I'm Mikhail<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Python developer student from Russia</h3>
 
 - 🌱 I’m currently learning Python
