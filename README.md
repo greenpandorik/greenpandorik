@@ -1,5 +1,4 @@
 <h1 align="center">Hi All, I'm Mikhail<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-![GitHub Views](https://komarev.com/ghpvc/?username=greenpandorik&label=PROFILE+VIEWS)
 <h3 align="center">Python developer student from Russia</h3>
 
 - 🌱 I’m currently learning Python
@@ -33,3 +32,5 @@
 [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+
+![GitHub Views](https://komarev.com/ghpvc/?username=greenpandorik)
